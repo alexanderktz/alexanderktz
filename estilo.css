@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box   
+  }
+
+  
+  html, body, div, span, applet, object, iframe,
+  h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+  a, abbr, acronym, address, big, cite, code,
+  del, dfn, em, img, ins, kbd, q, s, samp,
+  small, strike, strong, sub, sup, tt, var,
+  b, u, i, center,
+  dl, dt, dd, ol, ul, li,
+  fieldset, form, label, legend,
+  table, caption, tbody, tfoot, thead, tr, th, td,
+  article, aside, canvas, details, embed, 
+  figure, figcaption, footer, header, hgroup, 
+  menu, nav, output, ruby, section, summary,
+  time, mark, audio, video {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+  }
+
+  article, aside, details, figcaption, figure, 
+  footer, header, hgroup, menu, nav, section {
+      display: block;
+  }
+  body {
+      line-height: 1;
+  }
+  ol, ul {
+      list-style: none;
+  }
+  blockquote, q {
+      quotes: none;
+  }
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+      content: '';
+      content: none;
+  }
+  table {
+      border-collapse: collapse;
+      border-spacing: 0;
+  }
+  
+  
+  
+  
+  
+  
+
+  
+  h1{
+      font-size: 30px;
+      font-weight: 800;
+  }
+  
+  h2 {
+      font-size: 24px;
+      font-weight: 700;
+  }
+  
+  body{
+      font-family: 'Open Sans', sans-serif;
+  }
+  
+  .lanzador-menu {     
+      position: absolute;
+      margin-top: 57px;
+      color: white;
+      text-decoration: none;
+      right: 25px;
+      
+  }
+  
+  .logo img{
+      position: absolute;
+      margin: 40px 20px;
+      width: 120px;
+  }
+  
+  .navegacion {
+      background-color: #241d1b;
+      padding-left: 20px;
+      padding-bottom: 40px;
+      line-height: 1.3;
+  }
+  
+  .navegacion a {
+      color: aliceblue;
+      font-size: 10px;
+      text-decoration-line: none;
+  }
+  .encabezado {
+      padding: 1px;
+      line-height: 1.2;
+      background-image: url(silpancho.jpg);
+      background-size: cover;
+      color: 0a0a0a#;
+      text-align: center;
+      padding-top: 214px;
+      padding-bottom: 150px;
+  }
+  
+  .brunch {
+      background-color: #d03b40;
+      color: #f5f0ed;
+      padding: 40px 20px;
+      line-height: 1.2;
+      text-align: center;
+  }
+  
+  .celebra { 
+      color:#d03b40;
+      background-color: #0783d6;
+      padding: 40px 20px;
+      line-height: 1.2;
+      text-align: center;
+  }
+  
+  .desayunar {
+      background-image: url(tucumana.jpg);
+      background-size: cover;
+      color: #f5f0ed;
+      padding: 10px 10px;
+      line-height: 1.2;
+      text-align: center;
+  }
+  
+  .desayunar div p {
+      border-style: solid;
+      border-color: #f5f0ed;
+      border-width: 2px;
+      padding: 10px 20px;
+      max-width: 400px;
+      margin: auto;
+  }
+  
+  .pan { 
+      background-image: url(fondo3.png);
+      color: #000000;
+      padding: 15px;
+      padding-bottom: 40px;
+      line-height: 1;
+  }
+  .contacta { 
+      background-color: #ded6c0;
+      color: #d03b40;
+      padding: 40px 20px;
+      line-height: 1.2;
+      text-align: center;
+  }
+  .donde { 
+      background-color: #d03b40;
+      color: #f5f0ed;
+      padding: 40px 20px;
+      line-height: 1.2;
+      text-align: center;
+  }
+  .final { 
+      background-color: #241d1b;
+      color: #f5f0ed;
+      padding: 40px 20px;
+      line-height: 1.3;
+      font-size: 14px;
+  }
+  
+  img {
+      width: 90px;
+      margin-left: 40%;
+      margin-bottom: 20px;
+      margin-top: 20px;
+  }
+  
+  
